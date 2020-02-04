@@ -11,5 +11,9 @@ The straw switch has its pros and cons. Most importantly, it achieves its purpos
 
 **Image**
 
+Close-up
+
 ![](Close_up.jpg)
+
+Whole Setup
 ![](Whole_setup.jpg)
