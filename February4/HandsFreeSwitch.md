@@ -11,5 +11,5 @@ The straw switch has its pros and cons. Most importantly, it achieves its purpos
 
 **Image**
 
-![]Close_up.jpg
-![]Whole_setup.jpg
+![](Close_up.jpg)
+![](Whole_setup.jpg)
