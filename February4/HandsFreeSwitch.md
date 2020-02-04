@@ -9,6 +9,10 @@ To elaborate, the switch has two components: the upper part, which is a plastic 
 
 The straw switch has its pros and cons. Most importantly, it achieves its purpose as a switch that doesn’t use people’s hands. Moreover, it is portable and quite easy to use, since the user simply has to inhale air through the straw to light up the LED bulb. However, it isn’t very practical because it requires the user to draw in breath, often for a long time, which is hard to do.  
 
+**Video**
+
+![](https://www.youtube.com/watch?v=NvTYCpT5Ic8)
+
 **Image**
 
 Close-up
