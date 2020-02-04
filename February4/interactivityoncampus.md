@@ -1,0 +1,7 @@
+**Observing Interactivity at NYU Abu Dhabi**
+
+Behind the Baraha in C2, there is a computer room that has six big-screen computers. I used to almost live there to finish assignments, relax with friends, and do all-nighters before finals. Like many other classrooms and conference rooms around campus, the computer room uses an automatic lighting control system. More specifically, its lights turn on when a person’s presence is detected and turn off when there is supposedly nobody in the room — a classic example of technological interactivity.
+
+I am usually supportive of using a sensor-based control system because it can be convenient and greatly beneficial in saving energy/electricity. However, I have experienced frustrating struggles due to the particular light sensor that the room uses. This is because the sensor does not detect me when I’m sitting down. Considering that I am usually sitting in front of a computer to study in the room, this glitch has become uncomfortable and inconvenient. I have to stand up and move myself around whenever the lights turn off, which happens quite frequently. This has ultimately discouraged me from using the room, especially when doing all-nighters.
+
+Through my observation/reflection of this more-or-less flawed interactive technology, I realized the importance of convenience in developing interactive prototypes and technologies, including future projects for Intro to IM. 
