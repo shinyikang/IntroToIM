@@ -1,4 +1,4 @@
-**Here is the description of my hands free switch:** Introducing the Straw Switch
+**Introducing the Straw Switch**
 
 
 We usually use straws to drink beverages. But now, we can use a straw, or the straw switch, to turn on a light!
