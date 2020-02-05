@@ -1,4 +1,4 @@
-**Observing Interactivity at NYU Abu Dhabi**
+**Interactive Observation**
 
 Behind the Baraha in C2, there is a computer room that has six big-screen computers. I used to almost live there to finish assignments, relax with friends, and do all-nighters before finals. Like many other classrooms and conference rooms around campus, the computer room uses an automatic lighting control system. More specifically, its lights turn on when a person’s presence is detected and turn off when there is supposedly nobody in the room — a classic example of technological interactivity.
 
