@@ -9,10 +9,10 @@ To explain further, each LED is connected to a digital pin with a number ranging
 ![](Feb11_schematic.png)
 
 **Program**
-![](programscreenshot.jpg)
+![](programschreenshot.jpg)
 
 **Set-Up**
-![](Setup.jpg")
+![](Setup.jpg)
 
 Reference:
 - https://www.arduino.cc/reference/en/language/functions/random-numbers/random/
