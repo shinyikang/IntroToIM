@@ -5,12 +5,12 @@
 My program 
 
 **Schematic**
-![](Feb11_schematic.png width="200")
+![]("Feb11_schematic.png" width="200")
 
 **Program**
 
 **Set-Up**
-![](Setup.jpg width="100")
+![]("Setup.jpg" width="100")
 
 
 
