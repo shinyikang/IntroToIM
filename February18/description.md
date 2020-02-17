@@ -14,7 +14,7 @@ Furthermore, although turning the buzzer on/off is managed in a digital system, 
 ![](Feb18_Schematic.png)
 
 **Set-Up**
-![](Feb18_Setup.png)
+![](Feb18_Setup.jpg)
 
 **Program**
 ![](Feb18_Code1.png)
