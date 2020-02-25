@@ -20,6 +20,11 @@ int happymelody[] = {
   NOTE_C4, NOTE_C4, NOTE_D4, NOTE_E4, NOTE_D4, NOTE_C4, NOTE_C4,
 };
 
+//note durations:
+//4 - quarter notes
+//2 - half notes
+//1 - whole notes
+
 int happynoteDurations[] = {
   4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 8, 2,
   4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 8, 2
