@@ -23,9 +23,12 @@ To make the servo move, I referenced the "knob" example code, especially the mys
 One issue I had while coding this was that I couldn't make the melody stop and move onto the next motion (when the button switch is clicked or the slide switch is turned off). There may be a specific code/function that would allow this to happen, but I didn't get to figure out which one.
 
 ### Schematic
+![](Feb25_schematic.png)
 
 ### Photo
 
 **Set-Up**
+![](Feb25_setup.jpg)
 
 **Close-Up**
+![](Feb25_close-up.jpg)
