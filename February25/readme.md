@@ -8,7 +8,7 @@ The face being shown on stage changes through a servo with a ping pong ball atta
 The user can change the side of face and the melody by clicking the yellow button (happy face) or the blue button (sad face). The melody has to end for the user to change/repeat the scene or turn off the system.
 The entire system can be turned off using the slide switch, where the ball/servo changes its angle so that neither of the faces are shown.
 
-<Method>
+**Method**
 
 I used if, else if, and else statements to control the system (servo and buzzer) based on the slide/button switches.
 
@@ -18,7 +18,7 @@ To play the melodies, I used the *tone* and *noTone*, referencing the "toneMelod
 
 To make the servo move, I referenced the "knob" example code, especially the myservo.write(angle) function. I made it so that the servo move to 0, 90, and 180 degrees based on what switches are turned on/off.
 
-<Potential Problems>
+**Potential Problems**
   
 One issue I had while coding this was that I couldn't make the melody stop and move onto the next motion (when the button switch is clicked or the slide switch is turned off). There may be a specific code/function that would allow this to happen, but I didn't get to figure out which one.
 
