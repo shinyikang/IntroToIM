@@ -22,6 +22,8 @@ To make the servo move, I referenced the "knob" example code, especially the mys
   
 One issue I had while coding this was that I couldn't make the melody stop and move onto the next motion (when the button switch is clicked or the slide switch is turned off). There may be a specific code/function that would allow this to happen, but I didn't get to figure out which one.
 
+Another problem I had was with the note durations, in which I couldn't use dotted-half notes. I solved this by combining half-notes and quarter-rests. I wonder how I can make the notes go on for 3 beats.
+
 ### Schematic
 ![](Feb25_schematic.png)
 
