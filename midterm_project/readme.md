@@ -32,6 +32,7 @@ When coding to make the prototype and the final product work, I had to find ways
 After I was done with prototyping /coding, I moved on to building the final product. I personally found this to be the hardest part since I had to figure out ways to securely and cleanly attach the servos, LEDs, and FSR onto the bag. Also, I've never soldered anything before, so I had to practice doing it. 
 
 
+
 ### Schematic
 
 ![](schematic.jpg | width=100)
