@@ -27,10 +27,14 @@ Then, I prototyped my product with a draft schematic. For my prototype, I used f
 
 ![](prototype.jpg)
 
-When coding, I had to find ways to make some of the features operate in a certain way. For instance, I wanted the buzzer to play the melody only once after the bag is supposedly closed (the FSR value is over 700). To put in this feature, I referred to online resources and found out that I should use a boolean variable. Ultimately, the code worked as shown in this [video of my prototype](https://www.youtube.com/watch?v=F6Es3urRpkI).
+When coding, I had to find ways to make some of the features operate in a certain way. For instance, I wanted the buzzer to play the melody only once after the bag is supposedly closed (the FSR value is over 700). To put in this feature, I referred to online resources and found out that I should use a boolean variable. Ultimately, the code worked as shown in this [video of my prototype](https://www.youtube.com/watch?v=slBqEGOy0Qc).
 
-After I was done with prototyping /coding, I moved on to build the final product. I personally found this to be the hardest part since I had to figure out ways to securely and cleanly attach the servos, LEDs, and FSR onto a cotton/tote bag. Also, I've never soldered anything before, so I had to practice doing it. On a side note, to make the FSR (easily broken when soldered) independent from the breadboard, I got to learn a different method of connecting wires that does not involve soldering. 
+After I was done with prototyping /coding, I moved on to build the final product. I personally found this to be the hardest part since I had to figure out ways to securely and cleanly attach the servos, LEDs, and FSR onto a cotton/tote bag. Also, I've never soldered anything before, so I had to practice doing it. On a side note, I got to learn a different method of connecting wires that does not involve soldering to make the FSR (easily broken when soldered) independent from the breadboard, 
 Although I went through a lot of trials and errors, I did manage to finish everything.
+
+**Potential Improvements**
+
+Thankfully, most of what I planned for HappyBag turned out to work properly. 
 
 
 ### Schematic
@@ -44,3 +48,4 @@ Although I went through a lot of trials and errors, I did manage to finish every
 ![](finalproduct2.jpg)
 
 **Code**
+
