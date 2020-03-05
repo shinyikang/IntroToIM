@@ -51,7 +51,6 @@ Secondly, I can replace the power source for my project from my computer to a po
 
 **Code**
 ![](codescreen.png)
-![](codescreen2.png)
 ![](codescreen3.png)
 ![](codescreen4.png)
 ![](codescreen5.png)
