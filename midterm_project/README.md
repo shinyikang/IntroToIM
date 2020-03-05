@@ -6,6 +6,7 @@
 
 My midterm project called HappyBag is an interactive electronic tote bag with a smiley face on it. It has two rotating flower-shaped eyes and a smiling mouth that lights up in green. The bag also sings a short melody when it is closed. 
 The user can turn on and off the system by using a slide switch. 
+The electronics on the bag are powered by a portable power bank, not the computer, so that the bag can be taken around.
 
 **Components**
 
@@ -36,7 +37,7 @@ Although I went through a lot of trials and errors, I did manage to finish every
 
 Thankfully, most of what I planned for the HappyBag turned out to work properly. However, there exist some places for improvement. 
 Firstly, although the bag looks clear and simple on the outside, there are a lot of wires inside that make it look messy and not practical for usage. Therefore, I would like to find a way to better organize the wires, especially to prevent them from getting damaged or messed up in some way.
-Secondly, I can replace the power source for my project from my computer to a portable USB charger. This way, the bag is portable and can be worn anywhere without the need of a computer!
+Secondly, I realized that the buzzer and the servo don't operate together, in which when the buzzer is singing, the servo stops rotating. Fortunately, this turned out to be actually better because the servo motor is too loud.
 
 
 ### Schematic
@@ -46,8 +47,8 @@ Secondly, I can replace the power source for my project from my computer to a po
 
 ### Final Product Photos
 
-![](finalproduct1.png)
-![](finalproduct2.jpg)
+![](finalproduct.png)
+![](final_electronics.png)
 
 **Code**
 ![](codescreen.png)
