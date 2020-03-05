@@ -36,8 +36,9 @@ Although I went through a lot of trials and errors, I did manage to finish every
 **Potential Improvements**
 
 Thankfully, most of what I planned for the HappyBag turned out to work properly. However, there exist some places for improvement. 
-Firstly, although the bag looks clear and simple on the outside, there are a lot of wires inside that make it look messy and not practical for usage. Therefore, I would like to find a way to better organize the wires, especially to prevent them from getting damaged or messed up in some way.
+Firstly, although the bag looks clear and simple on the outside, there are a lot of wires inside that make it look messy and not practical for usage. Therefore, I would like to find a way to better organize the wires, especially to prevent them from getting damaged or messed up in some way. I can also change the slide switch that is attached to the breadboard to a switch that is more visible and easier to use, such as a toggle switch.
 Secondly, I realized that the buzzer and the servo don't operate together, in which when the buzzer is singing, the servo stops rotating. Fortunately, this turned out to be actually better because the servo motor is too loud.
+Thirdly, an FSR might not be the best sensor to use for detecting when the bag closes, considering that the FSR will change values even if I touch it with my hands. 
 
 
 ### Schematic
