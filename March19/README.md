@@ -6,10 +6,7 @@ My self-portrait, although not interactive by itself, changes the color of the t
 
 
 ### Reference
-https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf
-
-https://processing.org/reference
-
-https://htmlcolorcodes.com/color-picker/
-
-https://forum.processing.org/one/topic/random-color-multiple-times.html
+- https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf
+- https://processing.org/reference
+- https://htmlcolorcodes.com/color-picker/
+- https://forum.processing.org/one/topic/random-color-multiple-times.html
