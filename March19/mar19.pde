@@ -33,3 +33,9 @@ void setup() {
   line(270,190,280,210);
   line(280,210,260,210);
 }
+
+//Reference
+//https://www.cs.bham.ac.uk/~cxp291/ri/processing_cheat_sheet_english.pdf
+//https://processing.org/reference
+//https://htmlcolorcodes.com/color-picker/
+//https://forum.processing.org/one/topic/random-color-multiple-times.html
