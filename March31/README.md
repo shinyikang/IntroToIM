@@ -14,7 +14,7 @@ Fortunately, I didn't encounter many problems while working on this. What I do w
 One part of the code that may be confusing is how the for loop (in the set-up) works since it doesn't determine the number of sparkles but rather the number of strokes in a sparkle. In fact, the "sparkle" function instructs the process of creating the sparkle, which is randomly generated through a series of strokes centered on one point. Therefore, the "sparkle" function creates strokes (that combine to become a sparkle) not directly the sparkle itself.
 
 ### Image
-![](finalproduct.jpg)
+![](finalwork.jpg)
 
 ### Reference
 - http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf
