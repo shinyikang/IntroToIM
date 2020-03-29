@@ -1,11 +1,15 @@
 ## Sparkles: Computer Art
 
-[Link to Video](https://youtu.be/cuMMVTptojc)
+**[Link to Video](https://youtu.be/cuMMVTptojc)**
 
 ### Description
 For my computer art, I took inspiration from the following art piece:
+![](originalart.jpg)
 
-My final work is interactive with the user being able to add other "sparkles" to the it by clicking on different areas. The longer they  
+My final work is interactive with the user being able to add other "sparkles" to it by clicking on different areas. The longer the mouse is clicked, the more strokes on the sparkle there will be. The video above illustrates how this interactivity works.
+
+### Image
+![](finalproduct.jpg)
 
 ### Reference
 - http://dada.compart-bremen.de/docUploads/ProgrammInformation21_PI21.pdf
