@@ -1,4 +1,4 @@
-## Sparkles: Computer Art
+## Sparkles (Computer Art)
 
 **[Link to Video](https://youtu.be/cuMMVTptojc)**
 
