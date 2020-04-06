@@ -11,7 +11,7 @@ Aside from OOP, I controlled the number of balloons coming up at once by using a
 Even though I didn't encounter any significant challenges while coding, I do want to learn how I can make it so that all of the balloons collide with each other. Is it possible to incorporate this feature within the class, or do I have to code it in the draw section?
 
 ### Images
-
+![](image.png)
 
 ### References
 - https://github.com/michaelshiloh/simpleProcessingClassExample
