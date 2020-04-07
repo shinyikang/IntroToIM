@@ -3,7 +3,7 @@
 **[Link to Video](https://youtu.be/ITX4RcDfK48)**
 
 ### Description
-In times of uncertainty and trouble, I wanted to create a light-hearted/cheerful card with a note that would hopefully make people smile. Hence came my idea to display the Winnie the Pooh quote "nobody can be uncheered with a balloon" along with balloons going up in the sky. The balloons can be popped by placing the mouse on them for a certain amount of time until the balloons become too big. This is demonstrated in the video above.
+In times of uncertainty and trouble, I wanted to create a light-hearted/cheerful card with a note that would hopefully make people smile. Hence came my idea to display the Winnie the Pooh quote "nobody can be uncheered with a balloon" along with balloons going up in the sky. The balloons can be popped by placing the mouse on them for a certain amount of time until they become too big. This is demonstrated in the video above.
 
 In accordance to the instructions for this assignment to incorporate object-oriented programming, I created one class, "balloon", which determined the main features of the balloons being displayed. This includes the location, shape, movement, and interactivity of the balloon.
 Aside from OOP, I controlled the number of balloons coming up at once by using a timer, so that only a certain amount is displayed on the screen at once (but this happens continuously). 
