@@ -1,4 +1,4 @@
-## [Generative Text] Letter from a Pen Pal
+## Letter from a Pen Pal - Generative Text
 
 **[Link to Video](https://youtu.be/nStybjdui4s)**
 
