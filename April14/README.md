@@ -7,12 +7,9 @@ My program generates varying version of a pen pal letter whenever the code runs.
 The user gets the letter by writing down his/her name on the opening page and pressing enter. The name written down becomes the receiver, and several words/phrases of the letter are determined randomly based on the different options listed in table in the .csv file. 
 The layout of the letter is the following:
 
-'''
-git status
+> Dear __user-input name__,
 
-Dear __user-input name__,
-
-Greetings from __country__!
+> Greetings from __country__!
 My name is __sender__, and I am so excited to exchange letters with you as pen pals. Things seem to be really hectic these days, so I hope you're coping with whatever is going on.
 Going off on a tangent, I just had __food__, and I'm so full that I can't breathe.
 I'll soon head off to __activity__. 
