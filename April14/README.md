@@ -21,7 +21,7 @@ Meanwhile, take care, and hope you get back to me soon!
 > Your pen pal,  
 \__sender__
 
-The five fill-in-the-blanks (country, food, activity, question, and sender) are the ones being randomly selected from the .csv file.
+The five fill-in-the-blanks (country, food, activity, question, and sender) are the ones being randomly selected from the .csv file. Each of them have 8 outcomes.
 
 **Challenges**
 
