@@ -26,7 +26,8 @@ The five fill-in-the-blanks (country, food, activity, question, and sender) are 
 **Challenges**
 
 I don't think my program is particularly confusing. However, one thing to keep in mind is that it uses the "Table" class to produce the string values from the .csv file, because the file has a table with multiple columns.  
-On the other hand, the code behind user-input name is straightforward, with the string value "name" changing based on what key is pressed. The use of boolean for using the "enter" key to move onto the next page (letter) is also noteworthy. Still, I would like to know how I can re-code the user-input name part so that deleting the letters with the back button is possible. I've been getting errors on the program whenever I pressed the back-button. 
+On the other hand, the code behind user-input name is straightforward, with the string value "name" changing based on what key is pressed. The use of boolean for using the "enter" key to move onto the next page (letter) is also noteworthy. Still, I would like to know how I can re-code the user-input name part so that deleting the letters with the back button is possible. I've been getting errors on the program whenever I pressed the back-button.  
+Lastly, I created a function for drawing the mail icon, which is closed in the opening page and open in the letter page.
 
 ### Images
 Opening Page
