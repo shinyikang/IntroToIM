@@ -29,7 +29,9 @@ I don't think my program is particularly confusing. However, one thing to keep i
 On the other hand, the code behind user-input name is straightforward, with the string value "name" changing based on what key is pressed. The use of boolean for using the "enter" key to move onto the next page (letter) is also noteworthy. Still, I would like to know how I can re-code the user-input name part so that deleting the letters with the back button is possible. I've been getting errors on the program whenever I pressed the back-button. 
 
 ### Images
+Opening Page
 ![](image1.png)
+Letter
 ![](image2.png)
 
 ### References
