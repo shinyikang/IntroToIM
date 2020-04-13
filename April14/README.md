@@ -7,18 +7,26 @@ My program generates varying version of a pen pal letter whenever the code runs.
 The user gets the letter by writing down his/her name on the opening page and pressing enter. The name written down becomes the receiver, and several words/phrases of the letter are determined randomly based on the different options listed in table in the .csv file. 
 The layout of the letter is the following:
 
-*Dear __user-input name__,
+*Dear __ user-input name__,
 
 *Greetings from __ country __ !
+
 *My name is __ sender__ , and I am so excited to exchange letters with you as pen pals. Things seem to be really hectic these days, so I hope you're coping with whatever is going on.
+
 *Going off on a tangent, I just had __ food__ , and I'm so full that I can't breathe.
+
 *I'll soon head off to __ activity __ . 
+
 *You can probably guess how I feel about that :)
+
 *Although I have to leave now, I'd love to learn more about you!
+
 *__ question__.
+
 *Meanwhile, take care, and hope you get back to me soon!
 
 *Your pen pal,
+
 *__ sender__
 
 The five fill-in-the-blanks (country, food, activity, question, and sender) are the ones being randomly selected from the .csv file.
