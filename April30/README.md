@@ -8,9 +8,9 @@ I learned how to pointillize an image using processing mainly through the websit
 
 
 ### Images
-<img src="./img.png" width="100" height="100">
-<img src="./img2.png" width="100" height="100">
-<img src="./img3.png" width="100" height="100">
+<img src="./img.png" width="200">
+<img src="./img2.png" width="200">
+<img src="./img3.png" width="200">
 
 ### References
 - https://processing.org/tutorials/pixels/
