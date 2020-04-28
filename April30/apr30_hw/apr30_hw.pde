@@ -1,3 +1,6 @@
+/*for this dynamic pointillism piece, differently-colored dots/squares are placed randomly at first, but when the user presses any key or clicks on the screen, 
+the dots/squares move to their supposed-to-be positions, properly pointillizing and thus resembling the image being used.*/
+
 PImage tree;
 int pointillize = 10; //length of the dots/squares
 
