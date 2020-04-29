@@ -10,6 +10,9 @@ I learned how to pointillize an image using processing mainly through the websit
 ### Images
 <img src="./img.png" width="300"> <img src="./img2.png" width="300"> <img src="./img3.png" width="300">
 
+Transition
+<img src="./img4.png" width="300"> <img src="./img2.png" width="300">
+
 ### References
 - https://processing.org/tutorials/pixels/
 - https://www.kindpng.com/imgv/iRJhR_tree-png-image-tree-png-for-photoshop-transparent/
