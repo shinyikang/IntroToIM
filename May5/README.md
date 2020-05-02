@@ -7,3 +7,8 @@ I will use color tracking computer vision, under which the user moves around a c
 ### Previous Work
 
 <img src="./image.png" width="300">
+
+### References
+
+- https://github.com/skang0531/IntroToIM/edit/master/April30/README.md
+- https://wp.nyu.edu/abudhabi_im_intro/meeting-24-week-12-long-day-april-30/
