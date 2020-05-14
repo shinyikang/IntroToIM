@@ -1,3 +1,5 @@
+## Initial Stage: Brainstormed Notes
+
 For my final project, I plan to emulate a vinyl record player (turntable) on Processing. Through this, I will figure out how I can aesthetically re-create an analog/old-fashioned object through the software. 
 
 The online turntable will have the following features:
