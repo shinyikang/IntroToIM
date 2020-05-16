@@ -16,7 +16,7 @@ Two soundtracks, namely "Moon River" sung by Audrey Hepburn and "Symphony No.5" 
 
 After coming up with the idea of digitally creating a turntable, I looked for relevant information that would help me in coding. I first looked at the anatomy of a turntable:
 
-<img src="./turntable_anatomy.jpg" width="700"> 
+<img src="./turntable_anatomy.jpg" width="400"> 
 
 Then, I was able to find an example of a digital interactive turntable on a [website](https://tympanus.net/Development/RecordPlayer/). Based on the information I gathered, I determined the key commponents of a turntable. I decided to use object-oriented programming (OOP) and create 4 classes: Turntable, ToneArm, MusicSelector (buttons for choosing the song), and Volume (controller/sider).
 
@@ -25,7 +25,7 @@ The Tonearm class is arguably the most important class since its purpose is to e
 
 After making the two classes, I could structure the turntable with its basic functions by initiating according objects. At this point, my work turned out to be [this video](https://www.youtube.com/watch?v=8oX1fq3wJGY).
 
-<img src="./final_progress.png" width="700"> 
+<img src="./final_progress.png" width="400"> 
 
 I wanted to put more features onto my turntable. Therefore, I added two musicselector buttons and a volume controller.
 The Musicselector class creates buttons that users can click on to select one out of the two available songs. This changes the recording being played as well as the LP record visuals.
